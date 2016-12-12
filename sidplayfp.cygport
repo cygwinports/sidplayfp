@@ -1,0 +1,11 @@
+NAME="sidplayfp"
+VERSION=1.4.3
+RELEASE=1
+CATEGORY="Audio"
+SUMMARY="C64 music player"
+DESCRIPTION="sidplayfp is a fork of SIDPLAY2, a C64 music player which
+integrates the reSID SID chip emulation into a cycle-based emulator
+environment, started with primary purpose to improve emulation of the C64
+system and the SID chips."
+HOMEPAGE="http://sourceforge.net/projects/sidplay-residfp/"
+SRC_URI="mirror://sourceforge/sidplay-residfp/sidplayfp-${VERSION}.tar.gz"
